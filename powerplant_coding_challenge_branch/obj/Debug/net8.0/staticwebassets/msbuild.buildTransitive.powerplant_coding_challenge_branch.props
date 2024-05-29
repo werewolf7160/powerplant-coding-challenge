@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\powerplant_coding_challenge_branch.props" />
+</Project>

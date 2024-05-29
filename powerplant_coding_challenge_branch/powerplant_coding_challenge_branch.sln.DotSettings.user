@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c3e49ae5_002D5a03_002D44f5_002Da8dd_002Db7c5dfccd32e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PowerplantGasTestEfficiencyOneDecimal" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BCDFE1C4-F1E4-497A-A95C-8BC6B60C6C5C::net8.0::powerplant_unitTest.PowerplantTest.PowerplantGasTestEfficiencyOneDecimal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BCDFE1C4-F1E4-497A-A95C-8BC6B60C6C5C::net8.0::powerplant_unitTest.PowerplantTest.PowerplantGasTestEfficiencyTwoDecimal&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
